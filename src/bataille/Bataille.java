@@ -56,8 +56,6 @@ public class Bataille{
 	  	 System.out.println("Le game est terminé");
 	  	 
 	  
-	  
-	  
 //	  //TEST TEST :
 //	  
 //	  Carte CarteTest = new Carte("Coeur", "4");
