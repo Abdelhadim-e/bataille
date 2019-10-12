@@ -1,6 +1,6 @@
 package bataille;
 
-import java.util.ArrayList; // ArrayList - 
+import java.util.ArrayList; // ArrayList 
 import java.lang.Math; // Utilisation outils math hasard (Math.random) 
 import java.util.Collections; // Permet de récup la position d'un objet dans la liste (Collection.shuffle)
 
